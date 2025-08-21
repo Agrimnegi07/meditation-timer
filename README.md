@@ -1,4 +1,4 @@
-# Meditate
+# Meditimer
 
 ![CI](https://github.com/benji6/meditation-timer/workflows/CI/badge.svg)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5b4f1df4-5a74-43ed-b198-30a81de24eb5/deploy-status)](https://app.netlify.com/sites/meditation-timer/deploys)
