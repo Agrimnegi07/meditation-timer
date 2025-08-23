@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benji6/meditation-timer.git"
+    "url": "git+https://github.com/Agrimnegi07/meditation-timer.git"
   },
   "author": "Ben Hall",
   "bugs": {
-    "url": "https://github.com/benji6/meditation-timer/issues"
+    "url": "https://github.com/Agrimnegi07/meditation-timer/issues"
   },
-  "homepage": "https://github.com/benji6/meditation-timer#readme",
+  "homepage": "https://github.com/Agrimnegi07/meditation-timer#readme",
   "browserslist": [
     ">1.25%"
   ],
